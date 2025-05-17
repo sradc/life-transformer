@@ -1,5 +1,3 @@
-# Training a Simple Transformer Neural Net on Conway's Game of Life
-
 This code accompanies the blog post: https://sidsite.com/posts/life-transformer/
 
 See [main.ipynb](main.ipynb).
