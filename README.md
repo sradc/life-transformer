@@ -2,7 +2,7 @@ This code accompanies the blog post: https://sidsite.com/posts/life-transformer/
 
 See [main.ipynb](main.ipynb).
 
-If you use this, please give credit, and link to this repo. Use the following to cite:
+If you use this, please credit, and link to this repo. Use the following to cite:
 ```
 @misc{radcliffe_life_transformer_2024,
   title={Training a Simple Transformer Neural Net on Conway's Game of Life},
